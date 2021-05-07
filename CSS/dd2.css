@@ -1,0 +1,12 @@
+th {
+    color: white;
+    border-color: white;
+    width: 60px;
+}
+table{
+    border: 1px solid black
+}
+tr{
+    width: 50px;
+    height: 30px;
+}
